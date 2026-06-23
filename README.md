@@ -1,4 +1,4 @@
-Abhirajsinh Vala Portfolio
+## Abhirajsinh Vala Portfolio
 
 Personal portfolio website showcasing my projects, skills, education, and experience as a Full Stack Developer.
 

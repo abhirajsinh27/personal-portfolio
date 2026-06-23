@@ -14,7 +14,7 @@ export const projects = [
     ],
     stack: ["React.js", "Node.js", "Express.js", "MongoDB Atlas", "Tailwind CSS", "JWT"],
     github: "https://github.com/abhirajsinh27/invhub-restaurant-saas",
-    liveDemo: "",
+    liveDemo: "https://invhubs.netlify.app",
     featured: true,
   },
   {
